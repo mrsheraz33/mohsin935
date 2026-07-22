@@ -43,8 +43,7 @@ const mohsin = {
 
 | Layer | Technology |
 |---|---|
-| Frontend | React, JavaScript |
-| Styling | CSS |
+| Frontend | HTML, CSS, JavaScript |
 | Deployment | Netlify |
 
 🔗 [Live](https://currencyconverter-mohsin.netlify.app) &nbsp;|&nbsp; 💻 [Code](https://github.com/mohsin935/Currency-Converter-)
@@ -55,7 +54,7 @@ const mohsin = {
 
 | Layer | Technology |
 |---|---|
-| Frontend | React, JavaScript |
+| Frontend | HTML, CSS, JavaScript |
 | API | Weather Data API |
 | Deployment | Netlify |
 
@@ -108,7 +107,7 @@ const mohsin = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-1b3a5c?style=for-the-badge&logo=gmail&logoColor=black&labelColor=black)](mailto:mohsindevelops13@gmail.com)
+[![Email](https://img.shields.io/badge/Email-4989F1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)](https://mail.google.com/mail/?view=cm&fs=1&to=mohsindevelops13@gmail.com)
 
 </div>
 
