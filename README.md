@@ -1,17 +1,17 @@
 <div align="center">
 
 <!-- Waving Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Mohsin%20Ali&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1b3a5c&height=200&section=header&text=Mohsin&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Building+Currency+Converter+%26+Weather+App;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Open+to+Work+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1B3A5C&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Building+Reliable%2C+High-Quality+Web+Solutions;Turning+Ideas+Into+Scalable+Web+Applications;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Open+to+Work+🚀)](https://git.io/typing-svg)
 
 <!-- Open to Work Badge -->
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=github&logoColor=black&labelColor=black)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-1b3a5c?style=for-the-badge&logo=github&logoColor=black&labelColor=black)
 
 <!-- Profile View + Follower Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=mohsin935&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/mohsin935?color=7dd3fc&style=for-the-badge&label=FOLLOWERS&labelColor=black)
+![Profile Views](https://komarev.com/ghpvc/?username=mohsin935&color=1b3a5c&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/mohsin935?color=1b3a5c&style=for-the-badge&label=FOLLOWERS&labelColor=black)
 
 </div>
 
@@ -20,7 +20,7 @@
 ### 🧑‍💻 Who I Am
 
 ```typescript
-const mohsinAli = {
+const mohsin = {
   title: "Full Stack Developer",
   stack: ["MongoDB", "Express.js", "React", "Node.js", "JavaScript"],
   launchedProjects: [
@@ -39,7 +39,7 @@ const mohsinAli = {
 
 #### 💱 Currency Converter
 
-[![Currency Converter](https://github-readme-stats.vercel.app/api/pin/?username=mohsin935&repo=Currency-Converter-&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff&bg_color=0d1117)](https://github.com/mohsin935/Currency-Converter-)
+[![Currency Converter](https://github-readme-stats.vercel.app/api/pin/?username=mohsin935&repo=Currency-Converter-&theme=nord&border_color=1b3a5c&title_color=1b3a5c&text_color=ffffff&bg_color=0d1117)](https://github.com/mohsin935/Currency-Converter-)
 
 | Layer | Technology |
 |---|---|
@@ -51,7 +51,7 @@ const mohsinAli = {
 
 #### ⛅ Weather App
 
-[![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=mohsin935&repo=Weather-app&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff&bg_color=0d1117)](https://github.com/mohsin935/Weather-app)
+[![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=mohsin935&repo=Weather-app&theme=nord&border_color=1b3a5c&title_color=1b3a5c&text_color=ffffff&bg_color=0d1117)](https://github.com/mohsin935/Weather-app)
 
 | Layer | Technology |
 |---|---|
@@ -83,10 +83,10 @@ const mohsinAli = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohsin935&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=ffffff&bg_color=0d1117" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsin935&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff&bg_color=0d1117" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mohsin935&show_icons=true&theme=nord&border_color=1b3a5c&title_color=1b3a5c&icon_color=1b3a5c&text_color=ffffff&bg_color=0d1117" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsin935&layout=compact&theme=nord&border_color=1b3a5c&title_color=1b3a5c&text_color=ffffff&bg_color=0d1117" width="48%"/>
 
-<img src="https://streak-stats.demolab.com?user=mohsin935&theme=nord&border=7dd3fc&background=0D1117&stroke=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=ffffff" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=mohsin935&theme=nord&border=1b3a5c&background=0D1117&stroke=1b3a5c&ring=1b3a5c&fire=1b3a5c&currStreakLabel=ffffff" width="70%"/>
 
 </div>
 
@@ -99,7 +99,7 @@ const mohsinAli = {
 ### 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohsin935&theme=nord&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&area_color=7dd3fc" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohsin935&theme=nord&hide_border=true&color=1b3a5c&line=1b3a5c&point=ffffff&area=true&area_color=1b3a5c" width="100%"/>
 </div>
 
 ---
@@ -108,10 +108,10 @@ const mohsinAli = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=black&labelColor=black)](mailto:mohsindevelops13@gmail.com)
+[![Email](https://img.shields.io/badge/Email-1b3a5c?style=for-the-badge&logo=gmail&logoColor=black&labelColor=black)](mailto:mohsindevelops13@gmail.com)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1b3a5c&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
