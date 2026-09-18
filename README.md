@@ -1,10 +1,5 @@
 <div align="center">
 
-<!-- Anime Header Banner -->
-<img src="https://images.unsplash.com/photo-1578632767115-351597cf2477?auto=format&fit=crop&w=1200&q=80" width="100%" height="260" style="object-fit: cover; border-radius: 10px;" />
-
-<br/><br/>
-
 <!-- Main Heading -->
 <h1>Hi, I'm <span style="color: #4989F1;">Mohsin</span></h1>
 <h3>Full Stack Developer</h3>
