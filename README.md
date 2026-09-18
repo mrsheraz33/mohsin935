@@ -1,116 +1,360 @@
 <div align="center">
 
-<!-- Waving Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1b3a5c&height=200&section=header&text=Mohsin&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%"/>
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1B3A5C&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Building+Reliable%2C+High-Quality+Web+Solutions;Turning+Ideas+Into+Scalable+Web+Applications;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Open+to+Work+🚀)](https://git.io/typing-svg)
+<br>
 
-<!-- Open to Work Badge -->
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-1b3a5c?style=for-the-badge&logo=github&logoColor=black&labelColor=black)
+<img
+src="https://api.dicebear.com/9.x/adventurer/svg?seed=Mohsin"
+width="170"
+alt="Mohsin"
+/>
 
-<!-- Profile View + Follower Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=mohsin935&color=1b3a5c&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/mohsin935?color=1b3a5c&style=for-the-badge&label=FOLLOWERS&labelColor=black)
+# MOHSIN
+
+### Full Stack Developer
+
+Building reliable, modern and scalable web applications with the MERN stack.
+
+<br>
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(MERN);Building+Reliable+Web+Solutions;Turning+Ideas+Into+Scalable+Applications;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Open+to+Work"
+alt="Typing Animation"
+/>
+
+<br><br>
+
+<a href="https://github.com/mohsin935">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="mailto:mohsindevelops13@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email">
+</a>
+
+<br><br>
+
+<img
+src="https://komarev.com/ghpvc/?username=mohsin935&label=PROFILE+VIEWS&color=58A6FF&style=flat-square"
+alt="Profile Views"
+/>
+
+<img
+src="https://img.shields.io/github/followers/mohsin935?label=Followers&style=flat-square&color=58A6FF"
+alt="Followers"
+/>
 
 </div>
 
+<br>
+
 ---
 
-### 🧑‍💻 Who I Am
+## About
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### Full Stack Developer
+
+I am a Full Stack Developer focused on building practical, reliable and responsive web applications.
+
+I work mainly with the MERN stack and enjoy building applications from frontend interfaces to backend APIs and database systems.
+
+My focus is on writing clean code, solving real-world problems and continuously improving my development skills.
+
+</td>
+
+<td width="45%" valign="top">
 
 ```typescript
 const mohsin = {
   title: "Full Stack Developer",
-  stack: ["MongoDB", "Express.js", "React", "Node.js", "JavaScript"],
-  launchedProjects: [
-    "Currency Converter — real-time currency conversion app",
-    "Weather App — live weather forecast app"
+
+  stack: [
+    "MongoDB",
+    "Express.js",
+    "React",
+    "Node.js",
+    "JavaScript"
   ],
-  certifications: [],
-  status: "Building and shipping MERN stack projects",
-  openTo: "Full-time / Freelance Full Stack Developer roles"
+
+  projects: [
+    "Currency Converter",
+    "Weather App"
+  ],
+
+  status: "Building and shipping MERN projects",
+
+  openTo: [
+    "Full-time",
+    "Freelance"
+  ]
 };
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## Featured Projects
+
+### Currency Converter
+
+A responsive currency conversion application built with HTML, CSS and JavaScript. The application uses live exchange-rate data to convert currencies.
+
+<div align="center">
+
+<a href="https://github.com/mohsin935/Currency-Converter-">
+<img
+  src="https://github-readme-stats.vercel.app/api/pin/?username=mohsin935&repo=Currency-Converter-&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF"
+  alt="Currency Converter"
+/>
+</a>
+
+</div>
+
+| Layer      | Technology            |
+| ---------- | --------------------- |
+| Frontend   | HTML, CSS, JavaScript |
+| Deployment | Netlify               |
+
+<div align="center">
+
+<a href="https://currencyconverter-mohsin.netlify.app">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo">
+</a>
+
+<a href="https://github.com/mohsin935/Currency-Converter-">
+<img src="https://img.shields.io/badge/SOURCE%20CODE-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
+</a>
+
+</div>
+
+<br>
+
+### Weather App
+
+A responsive weather application that fetches live weather information through a weather API and presents current conditions through a simple interface.
+
+<div align="center">
+
+<a href="https://github.com/mohsin935/Weather-app">
+<img
+  src="https://github-readme-stats.vercel.app/api/pin/?username=mohsin935&repo=Weather-app&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF"
+  alt="Weather App"
+/>
+</a>
+
+</div>
+
+| Layer      | Technology            |
+| ---------- | --------------------- |
+| Frontend   | HTML, CSS, JavaScript |
+| API        | Weather Data API      |
+| Deployment | Netlify               |
+
+<div align="center">
+
+<a href="https://mohsin-weatherapp.netlify.app">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo">
+</a>
+
+<a href="https://github.com/mohsin935/Weather-app">
+<img src="https://img.shields.io/badge/SOURCE%20CODE-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
+</a>
+
+</div>
+
+---
+
+## Technology Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=js" alt="JavaScript">
+
+<br><br>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,html,css" alt="Frontend Technologies">
+
+<br><br>
+
+### Backend and Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Technologies">
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### Frontend
+
+React
+HTML5
+CSS3
+JavaScript
+
+</td>
+
+<td width="33%" align="center">
+
+### Backend
+
+Node.js
+Express.js
+REST APIs
+
+</td>
+
+<td width="33%" align="center">
+
+### Database
+
+MongoDB
+Database Design
+Data Management
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=mohsin935&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github"
+width="49%"
+alt="GitHub Statistics"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsin935&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+width="49%"
+alt="Top Languages"
+/>
+
+<br><br>
+
+<img
+src="https://streak-stats.demolab.com?user=mohsin935&hide_border=true&background=0D1117&stroke=21262D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
+width="70%"
+alt="GitHub Streak"
+/>
+
+</div>
+
+---
+
+## Development Focus
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**01**
+
+Frontend Development
+
+</td>
+
+<td align="center" width="25%">
+
+**02**
+
+Backend Development
+
+</td>
+
+<td align="center" width="25%">
+
+**03**
+
+REST API Development
+
+</td>
+
+<td align="center" width="25%">
+
+**04**
+
+Database Applications
+
+</td>
+</tr>
+</table>
+
+---
+
+## Development Approach
+
+```text
+Build
+  |
+  v
+Learn
+  |
+  v
+Improve
+  |
+  v
+Test
+  |
+  v
+Ship
+```
+
+I believe consistent practice and real-world projects are the best way to grow as a developer.
+
+---
+
+## Currently Building
+
+```javascript
+const currentFocus = [
+  "Full Stack Web Applications",
+  "MERN Stack Projects",
+  "REST APIs",
+  "Responsive User Interfaces",
+  "Database-Driven Applications"
+];
 ```
 
 ---
 
-### 🚀 Featured Projects
-
-#### 💱 Currency Converter
-
-[![Currency Converter](https://github-readme-stats.vercel.app/api/pin/?username=mohsin935&repo=Currency-Converter-&theme=nord&border_color=1b3a5c&title_color=1b3a5c&text_color=ffffff&bg_color=0d1117)](https://github.com/mohsin935/Currency-Converter-)
-
-| Layer | Technology |
-|---|---|
-| Frontend | HTML, CSS, JavaScript |
-| Deployment | Netlify |
-
-🔗 [Live](https://currencyconverter-mohsin.netlify.app) &nbsp;|&nbsp; 💻 [Code](https://github.com/mohsin935/Currency-Converter-)
-
-#### ⛅ Weather App
-
-[![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=mohsin935&repo=Weather-app&theme=nord&border_color=1b3a5c&title_color=1b3a5c&text_color=ffffff&bg_color=0d1117)](https://github.com/mohsin935/Weather-app)
-
-| Layer | Technology |
-|---|---|
-| Frontend | HTML, CSS, JavaScript |
-| API | Weather Data API |
-| Deployment | Netlify |
-
-🔗 [Live](https://mohsin-weatherapp.netlify.app) &nbsp;|&nbsp; 💻 [Code](https://github.com/mohsin935/Weather-app)
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-
-![Skills](https://skillicons.dev/icons?i=js)
-
-**Frontend**
-
-![Skills](https://skillicons.dev/icons?i=react,html,css)
-
-**Backend / Infra**
-
-![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb)
-
----
-
-### 📊 GitHub Stats
+## Connect
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohsin935&show_icons=true&theme=nord&border_color=1b3a5c&title_color=1b3a5c&icon_color=1b3a5c&text_color=ffffff&bg_color=0d1117" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsin935&layout=compact&theme=nord&border_color=1b3a5c&title_color=1b3a5c&text_color=ffffff&bg_color=0d1117" width="48%"/>
+<a href="https://github.com/mohsin935">
+<img src="https://img.shields.io/badge/GitHub-mohsin935-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
-<img src="https://streak-stats.demolab.com?user=mohsin935&theme=nord&border=1b3a5c&background=0D1117&stroke=1b3a5c&ring=1b3a5c&fire=1b3a5c&currStreakLabel=ffffff" width="70%"/>
+<a href="mailto:mohsindevelops13@gmail.com">
+<img src="https://img.shields.io/badge/Email-mohsindevelops13%40gmail.com-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email">
+</a>
 
-</div>
+<br><br>
 
-### 🏆 Trophies
+Open to full-time opportunities, freelance work and development collaborations.
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mohsin935&theme=nord&no-frame=true&no-bg=true&margin-w=15&column=7" width="100%"/>
-</div>
+<br><br>
 
-### 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohsin935&theme=nord&hide_border=true&color=1b3a5c&line=1b3a5c&point=ffffff&area=true&area_color=1b3a5c" width="100%"/>
-</div>
-
----
-
-### 📬 Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-4989F1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)](https://mail.google.com/mail/?view=cm&fs=1&to=mohsindevelops13@gmail.com)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1b3a5c&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" width="100%">
 
 </div>
