@@ -1,116 +1,264 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=180&section=header&text=MOHSIN&fontColor=FFFFFF&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=3&section=header" width="100%"/>
 
 <br>
 
-<img src="https://api.dicebear.com/9.x/avataaars/svg?seed=Mohsin&backgroundColor=0d1117&top=shortFlat,shortRound&facialHairProbability=100&facialHair=beardLight&accessoriesProbability=0&clothing=blazerAndShirt" width="160" alt="Avatar" />
+<img
+src="https://api.dicebear.com/9.x/avataaars/svg?seed=Mohsin&backgroundColor=0d1117&top=shortHair&facialHairProbability=25"
+width="180"
+alt="Mohsin Developer Avatar"
+/>
+
+# MOHSIN
+
+### Full Stack Developer
+
+Building reliable, modern and scalable web applications with the MERN stack.
+
+<br>
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(MERN);Building+Reliable+Web+Solutions;Turning+Ideas+Into+Scalable+Applications;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Open+to+Work"
+alt="Typing Animation"
+/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Full+Stack+Developer+%7C+MERN;React+%C2%B7+Node.js+%C2%B7+Express+%C2%B7+MongoDB;Turning+Ideas+Into+Scalable+Applications;Clean+Code+%7C+Real+Solutions;Open+to+Work" alt="Typing Animation" />
+<a href="https://github.com/mohsin935">
+  <img
+    src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
 
-<br>
+<a href="mailto:mohsindevelops13@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"
+    alt="Email"
+  />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:0D1117&height=3&section=header" width="100%" alt="divider" />
+<br><br>
+
+<img
+src="https://komarev.com/ghpvc/?username=mohsin935&label=PROFILE+VIEWS&color=58A6FF&style=flat-square"
+alt="Profile Views"
+/>
+
+<img
+src="https://img.shields.io/github/followers/mohsin935?label=FOLLOWERS&style=flat-square&color=58A6FF"
+alt="Followers"
+/>
 
 </div>
 
 <br>
 
-## About Me
+---
+
+## About
 
 <table>
 <tr>
+
 <td width="55%" valign="top">
 
-I'm a **Full Stack Developer** building practical, reliable and responsive web applications.
+### Full Stack Developer
 
-I work primarily with the **MERN stack**, handling everything from user interfaces to backend APIs and database design.
+I am a Full Stack Developer focused on building practical, reliable and responsive web applications.
 
-My focus is writing clean, maintainable code and solving real problems — one shipped project at a time.
+I work mainly with the MERN stack and enjoy developing complete applications from frontend interfaces to backend APIs and database systems.
+
+My focus is on writing clean code, solving real-world problems and continuously improving my development skills.
 
 </td>
+
 <td width="45%" valign="top">
 
 ```typescript
 const mohsin = {
-  role: "Full Stack Developer",
-  stack: ["MongoDB", "Express", "React", "Node.js"],
-  focus: "Scalable web applications",
-  approach: "Clean code, real solutions",
-  status: "Open to opportunities"
+  title: "Full Stack Developer",
+
+  stack: [
+    "MongoDB",
+    "Express.js",
+    "React",
+    "Node.js",
+    "JavaScript"
+  ],
+
+  focus: [
+    "Frontend Development",
+    "Backend Development",
+    "REST APIs",
+    "Database Applications"
+  ],
+
+  status: "Building and shipping MERN projects",
+
+  openTo: [
+    "Full-time",
+    "Freelance"
+  ]
 };
 ```
 
 </td>
+
 </tr>
 </table>
 
-<br>
+---
 
-## Tech Stack
+## Technology Stack
+
+<div align="center">
+
+### Languages
+
+<img
+src="https://skillicons.dev/icons?i=js"
+alt="JavaScript"
+/>
+
+<br><br>
+
+### Frontend
+
+<img
+src="https://skillicons.dev/icons?i=react,html,css"
+alt="React HTML CSS"
+/>
+
+<br><br>
+
+### Backend and Database
+
+<img
+src="https://skillicons.dev/icons?i=nodejs,express,mongodb"
+alt="Node.js Express MongoDB"
+/>
+
+</div>
+
+<br>
 
 <table>
 <tr>
-<th align="center" width="33%">Frontend</th>
-<th align="center" width="33%">Backend</th>
-<th align="center" width="34%">Database</th>
-</tr>
-<tr>
-<td align="center">
 
-React<br>
-JavaScript<br>
-HTML5<br>
+<td width="33%" align="center">
+
+### Frontend
+
+React
+
+HTML5
+
 CSS3
 
-</td>
-<td align="center">
-
-Node.js<br>
-Express.js<br>
-REST APIs<br>
-Authentication
+JavaScript
 
 </td>
-<td align="center">
 
-MongoDB<br>
-Mongoose<br>
-Schema Design<br>
-Data Modeling
+<td width="33%" align="center">
+
+### Backend
+
+Node.js
+
+Express.js
+
+REST APIs
+
+API Integration
 
 </td>
+
+<td width="33%" align="center">
+
+### Database
+
+MongoDB
+
+Database Design
+
+Data Management
+
+</td>
+
 </tr>
 </table>
 
-<br>
+---
 
-## What I Do
+## Development Focus
 
 <table>
 <tr>
-<td align="center" width="25%"><b>01</b><br><br>Frontend<br>Development</td>
-<td align="center" width="25%"><b>02</b><br><br>Backend<br>Development</td>
-<td align="center" width="25%"><b>03</b><br><br>REST API<br>Design</td>
-<td align="center" width="25%"><b>04</b><br><br>Database<br>Applications</td>
+
+<td width="25%" align="center">
+
+### 01
+
+Frontend Development
+
+</td>
+
+<td width="25%" align="center">
+
+### 02
+
+Backend Development
+
+</td>
+
+<td width="25%" align="center">
+
+### 03
+
+REST API Development
+
+</td>
+
+<td width="25%" align="center">
+
+### 04
+
+Database Applications
+
+</td>
+
 </tr>
 </table>
 
-<br>
+---
 
-## My Workflow
+## Development Approach
+
+<div align="center">
 
 ```text
-   Build  ──►  Learn  ──►  Improve  ──►  Test  ──►  Ship
-     ▲                                                │
-     └────────────────────────────────────────────────┘
+BUILD
+  |
+  v
+LEARN
+  |
+  v
+IMPROVE
+  |
+  v
+TEST
+  |
+  v
+SHIP
 ```
 
-Consistent practice on real projects is the fastest way to grow.
+</div>
 
-<br>
+I believe consistent practice, real-world development and continuous learning are the foundation of becoming a better developer.
+
+---
 
 ## Currently Building
 
@@ -124,18 +272,83 @@ const currentFocus = [
 ];
 ```
 
-<br>
+---
 
-## Get In Touch
-
-Open to **full-time roles**, **freelance work** and **development collaborations**.
-
-**Email** — mohsindevelops13@gmail.com
-
-<br>
+## GitHub Statistics
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0D1117&height=110&section=footer" width="100%" alt="Footer" />
+<img
+src="https://github-readme-stats.vercel.app/api?username=mohsin935&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github"
+width="49%"
+alt="GitHub Statistics"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsin935&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+width="49%"
+alt="Top Languages"
+/>
+
+<br><br>
+
+<img
+src="https://streak-stats.demolab.com?user=mohsin935&hide_border=true&background=0D1117&stroke=21262D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
+width="70%"
+alt="GitHub Streak"
+/>
+
+</div>
+
+---
+
+## Skills Overview
+
+```text
+Frontend
+React              ████████████████████
+HTML / CSS         ████████████████████
+JavaScript         ████████████████████
+
+Backend
+Node.js            ████████████████████
+Express.js         ████████████████████
+REST APIs          ████████████████████
+
+Database
+MongoDB            ████████████████████
+```
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="https://github.com/mohsin935">
+  <img
+    src="https://img.shields.io/badge/GitHub-mohsin935-161B22?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
+
+<a href="mailto:mohsindevelops13@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-mohsindevelops13%40gmail.com-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335"
+    alt="Email"
+  />
+</a>
+
+<br><br>
+
+Open to full-time opportunities, freelance work and development collaborations.
+
+<br><br>
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer"
+width="100%"
+alt="Footer"
+/>
 
 </div>
